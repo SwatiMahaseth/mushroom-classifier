@@ -15,7 +15,7 @@ The classical machine learning tasks like Data Exploration, Data Cleaning,  Feat
 - converting categorical variables into numeric form using label encoder
 
 ### Feature Selection¶
-- using mutual information to select top 10 features for model building
+- used mutual information to select top 10 features for model building
 
 #### Model Building and Evaluation
 - Logistic Regression: 0.95
